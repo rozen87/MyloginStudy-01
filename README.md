@@ -40,3 +40,4 @@ module.exports = {
     }
 };
 '''
+再起動する
