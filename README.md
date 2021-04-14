@@ -45,6 +45,9 @@ module.exports = {
 node src -> http://localhost:4000/
 
 ## nodemon
+
 $ npm install -g nodemon
+
 자동재시작
+
 $ nodemon --watch src/ src/index.js
