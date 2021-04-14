@@ -41,3 +41,5 @@ module.exports = {
 };
 '''
 再起動する
+
+## node src -> http://localhost:4000/
