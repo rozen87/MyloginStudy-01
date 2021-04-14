@@ -48,6 +48,4 @@ node src -> http://localhost:4000/
 
 $ npm install -g nodemon
 
-자동재시작
-
-$ nodemon --watch src/ src/index.js
+서버를 실행 할 때는 yarn start 를 하면 되고, 개발모드로 킬 때는 yarn start:dev 를 입력
